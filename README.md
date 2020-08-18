@@ -19,7 +19,7 @@ It should look something like **this**
 
 ![PMC Homepage](pmc_hompeag.png "Pubmed Central Homepage")
 
-
+&nbsp;  
 
 
 > 3. Now we will get the PMCIDs from the website by clicking on the *Send to: * button as shown below
