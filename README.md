@@ -19,15 +19,19 @@ It should look something like **this**
 
 ![PMC Homepage](pmc_hompeag.png "Pubmed Central Homepage")
 
+
+
+
 > 3. Now we will get the PMCIDs from the website by clicking on the *Send to: * button as shown below
 
 ![PMC Send to File](Send_To_FIle.png "How to Send Results to File")
 
 The resulting file (*it may take a while to download*) should have the format:
 
-`
+```
 PMC12345
 PMC23456
 PMC987654
-`
+```
+
 
