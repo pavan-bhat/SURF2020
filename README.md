@@ -22,7 +22,7 @@ It should look something like **this**
 &nbsp;  
 
 
-> 3. Now we will get the PMCIDs from the website by clicking on the *Send to: * button as shown below
+> 3. Now we will get the PMCIDs from the website by clicking on the *Send to* button as shown below
 
 ![PMC Send to File](Send_To_FIle.png "How to Send Results to File")
 
@@ -33,5 +33,12 @@ PMC12345
 PMC23456
 PMC987654
 ```
+
+#### Getting Abstracts
+
+> 4. Now that we have the list of PMCIDs, we are ready to use the program ***pmc.py***. However, first make sure to download the dependencies using `pip install <program>` or `conda install <program>`.
+
+The dependecies required are listen in requirments.txt navigate to the file in your terminal and run
+``` pip install -r requirements.txt ```
 
 
