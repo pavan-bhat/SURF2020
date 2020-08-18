@@ -36,7 +36,7 @@ PMC987654
 
 #### Getting Abstracts
 
-> 4. Now that we have the list of PMCIDs, we are ready to use the program ***pmc.py***. However, first make sure to download the dependencies using `pip install <program>` or `conda install <program>`.
+> 4. Now that we have the list of PMCIDs, we are ready to use the program ***pmc.py***. However, first make sure to download the dependencies.
 
 The dependecies required are listen in requirments.txt navigate to the file in your terminal and run
 ``` pip install -r requirements.txt ```
