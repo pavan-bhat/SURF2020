@@ -16,3 +16,4 @@ It includes various programs for
 > 2. Then, type in a term you want to search. You can also filter by year, author, etc. Keep in mind that the more results you get the longer it will take for the next steps, so breaaking up into smaller chunks is recommended.
 
 It should look something like **this**
+![PMC Homepage](/
