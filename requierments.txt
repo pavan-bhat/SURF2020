@@ -1,0 +1,15 @@
+biopython==1.76
+pandas====1.0.5
+urllib3==1.25.9
+requests==2.22.0
+datetime
+functools
+re==2020.7.14 
+time
+numpy==1.18.5 
+shutil
+glob ==0.7
+os
+math
+bs4==0.0.1
+sys
