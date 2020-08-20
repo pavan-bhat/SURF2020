@@ -68,5 +68,19 @@ python pmc.py /Users/pavanbhat/Desktop/pmcid.txt /Users/pavanbhat/Desktop/output
 
 Sample Output will look like this:
 ![PMC_Output_CSV](output_csv.png "Output")
+> - The "section" is because the abstracts are truncated to be up to 3000 charcters max (while not interrupting sentences) for easier upload into databases. If an abstract is more than 3000 characters, then it will have more than 1 section, with each section having the next part of the abstract. The rest of the information will be the same.
+
+### Conclusion
+
+Once you have the output files, you are done: you now have the abstract for a given PMCID!
+
+#### Errors
+
+POssible erros usually occur because of internet issues. You can tell because the program may have frozen in the output it is printing. One possble fix is to click on the terminal and press `CMD (or Cntrl) + C` which will break the connection. 
+
+If that doesn't work, then terminate the program by closing the terminal. Then look at the CSV file output and go to the last created file and find the last PMCID. Then, in your *ID input file*, delete all PMCs up to that ID, and rerun the program the same way as before. 
+
+***Make sure that your file stem is different though, so you don't overwrite your exisiting files***.
+
 
 
