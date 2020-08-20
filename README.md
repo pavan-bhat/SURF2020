@@ -67,6 +67,6 @@ python pmc.py /Users/pavanbhat/Desktop/pmcid.txt /Users/pavanbhat/Desktop/output
 > This will create files of 5000 lines named ***test_results_1.csv, test_results_2.csv, etc.*** in the folder *output_folder* on a ***Windows*** machine.
 
 Sample Output will look like this:
-![PMC_Output_CSV]
+![PMC_Output_CSV](Screen Shot 2020-08-20 at 3.23.01 PM.png "Output")
 
 
