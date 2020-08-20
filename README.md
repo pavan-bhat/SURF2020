@@ -49,7 +49,9 @@ In this example I will have my id file, `'/Users/pavanbhat/Desktop/pmcid.txt'`, 
 
 General usage can also be found running `python pmc.py -help`, but it is listed below:
 
-`python pmc.py <input_file> <output_file_stem> <number_of_lines_per_output_file> <Windows = True/False>`
+```
+python pmc.py <input_file> <output_file_stem> <number_of_lines_per_output_file> <Windows = True/False>
+```
 
 - *input_file* : The path to the pmcid file collected from PMC Website
 - *output_file_stem* : The path to the output folder and the file stem of output file you want (***SEE EXAMPLE***)
@@ -64,6 +66,7 @@ python pmc.py /Users/pavanbhat/Desktop/pmcid.txt /Users/pavanbhat/Desktop/output
 
 > This will create files of 5000 lines named ***test_results_1.csv, test_results_2.csv, etc.*** in the folder *output_folder* on a ***Windows*** machine.
 
-
+Sample Output will look like this:
+![PMC_Output_CSV]
 
 
