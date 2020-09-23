@@ -76,11 +76,13 @@ Once you have the output files, you are done: you now have the abstract for a gi
 
 #### Errors
 
-POssible erros usually occur because of internet issues. You can tell because the program may have frozen in the output it is printing. One possble fix is to click on the terminal and press `CMD (or Cntrl) + C` which will break the connection. 
+Possible errors usually occur because of internet issues. You can tell because the program may have frozen in the output it is printing. One possble fix is to click on the terminal and press `CMD (or Cntrl) + C` which will break the connection. 
 
 If that doesn't work, then terminate the program by closing the terminal. Then look at the CSV file output and go to the last created file and find the last PMCID. Then, in your *ID input file*, delete all PMCs up to that ID, and rerun the program the same way as before. 
 
 ***Make sure that your file stem is different though, so you don't overwrite your exisiting files***.
+`So if you were naming your files test_results_*, you would restart the program and use a stem like test_results_part2_`
 
+**Don't worry, we will be combining all the .csv files into one at the end***
 
 
